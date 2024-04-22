@@ -4,7 +4,7 @@
 </div>
 
 <!--내용 부분-->
-<h3 align="center">Tech Stack</h3>
+<h3 align="center">I know..</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/csharp-2665E3.svg?style=for-the-badge&logo=csharp&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/dotnet-4d77cf.svg?style=for-the-badge&logo=dotnet&logoColor=white" />&nbsp
@@ -19,7 +19,7 @@
 
 <br>
 
-<h3 align="center">Tools</h3>
+<h3 align="center">I use..</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
@@ -45,7 +45,7 @@
 
 <br>
 
-<h3 align="center">Contact</h3>
+<h3 align="center">In touch..</h3>
 <div align="center">
   <a href="mailto:jaeyun@alephstudio.xyz">
     <img src="https://img.shields.io/badge/jaeyun@alephstudio.xyz-181717.svg?style=for-the-badge&logo=minutemailer&logoColor=30B980" />&nbsp
