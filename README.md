@@ -19,6 +19,15 @@
 
 <br>
 
+<h3 align="center">I'm still learning..</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/network-2665E3.svg?style=for-the-badge&logo=graphql&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/forensic-181717.svg?style=for-the-badge&logo=hackaday&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/unreal-0E1128.svg?style=for-the-badge&logo=unrealengine&logoColor=white" />&nbsp
+</div>
+
+<br>
+
 <h3 align="center">I use..</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
