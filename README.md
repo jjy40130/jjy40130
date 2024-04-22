@@ -55,9 +55,12 @@
 <h3 align="center">In touch..</h3>
 <div align="center">
   <a href="mailto:jaeyun@alephstudio.xyz">
-    <img src="https://img.shields.io/badge/jaeyun@alephstudio.xyz-181717.svg?style=for-the-badge&logo=minutemailer&logoColor=30B980" />&nbsp
+    <img src="https://img.shields.io/badge/jaeyun@alephstudio.xyz-181717.svg?style=for-the-badge&logo=minutemailer&logoColor=30B980" />
   </a>
+</div>
+
+<div align="center">
   <a href="https://discordapp.com/users/276023356204122112">
-    <img src="https://img.shields.io/badge/wollu.xyz-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/wollu.xyz-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
