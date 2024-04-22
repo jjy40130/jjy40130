@@ -14,7 +14,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/java-F37410.svg?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/reversing-2C2C32.svg?style=for-the-badge&logo=hackaday&logoColor=840000" />&nbsp
+  <img src="https://img.shields.io/badge/reversing-181717.svg?style=for-the-badge&logo=hackaday&logoColor=white" />&nbsp
 </div>
 
 <br>
@@ -23,19 +23,24 @@
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/vscode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/affinity%20photo-AA00E9.svg?style=for-the-badge&logo=affinityphoto%20photoshop&logoColor=D4AAE3" />&nbsp
-  <img src="https://img.shields.io/badge/final%20cut%20pro-F24E1E.svg?style=for-the-badge&logo=apple&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/affinity%20photo-4E3188.svg?style=for-the-badge&logo=affinityphoto&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/final%20cut%20pro-181717.svg?style=for-the-badge&logo=apple&logoColor=white" />&nbsp
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/rider-2C2C32.svg?style=for-the-badge&logo=rider&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/intellij-2C2C32.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/pycharm-2C2C32.svg?style=for-the-badge&logo=pycharm&logoColor=white" />&nbsp
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/rider-2C2C32.svg?style=for-the-badge&logo=rider&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
+  <img src="https://img.shields.io/badge/ida%20pro-181717.svg?style=for-the-badge&logo=hackaday&logoColor=white" />&nbsp
 </div>
 
 <br>
@@ -43,6 +48,9 @@
 <h3 align="center">Contact</h3>
 <div align="center">
   <a href="mailto:jaeyun@alephstudio.xyz">
-    <img src="https://img.shields.io/badge/jaeyun@alephstudio.xyz-D14836?style=for-the-badge&logo=maildotru&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/jaeyun@alephstudio.xyz-181717.svg?style=for-the-badge&logo=minutemailer&logoColor=30B980" />&nbsp
+  </a>
+  <a href="https://discordapp.com/users/276023356204122112">
+    <img src="https://img.shields.io/badge/wollu.xyz-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />&nbsp
   </a>
 </div>
