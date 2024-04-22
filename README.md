@@ -6,7 +6,7 @@
 <!--내용 부분-->
 <h3 align="center">I know..</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/csharp-2665E3.svg?style=for-the-badge&logo=csharp&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/C%23-2665E3.svg?style=for-the-badge&logo=csharp&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/dotnet-4d77cf.svg?style=for-the-badge&logo=dotnet&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/unity-181717.svg?style=for-the-badge&logo=unity&logoColor=white" />&nbsp
 </div>
