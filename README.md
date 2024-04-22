@@ -46,8 +46,6 @@
   <img src="https://img.shields.io/badge/pycharm-2C2C32.svg?style=for-the-badge&logo=pycharm&logoColor=white" />&nbsp
 </div>
 
-<br>
-
 <div align="center">
   <img src="https://img.shields.io/badge/ida%20pro-181717.svg?style=for-the-badge&logo=hackaday&logoColor=white" />&nbsp
 </div>
